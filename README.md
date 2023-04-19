@@ -102,5 +102,7 @@ If you want to contribute to this project, please read our [`CONTRIBUTING.md`].
 
 [`CONTRIBUTING.md`]: https://github.com/cloudflare/.github/blob/master/CONTRIBUTING.md
 
+This is a test commit.
+
 ---
 <sub><sub><sub><sub>WireGuard is a registered trademark of Jason A. Donenfeld. BoringTun is not sponsored or endorsed by Jason A. Donenfeld.</sub></sub></sub></sub>
